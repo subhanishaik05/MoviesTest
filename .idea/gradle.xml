@@ -10,6 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Login" />
+            <option value="$PROJECT_DIR$/Login/data" />
+            <option value="$PROJECT_DIR$/Login/domain" />
+            <option value="$PROJECT_DIR$/Login/presentation" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

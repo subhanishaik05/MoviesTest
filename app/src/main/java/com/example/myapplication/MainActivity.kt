@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
             val navController = rememberNavController()
             MainNavHost(navController)
         }
+        println("this is subha branch")
     }
 }
 
